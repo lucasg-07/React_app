@@ -1,7 +1,7 @@
 import {BrowserRouter, Routes,Route} from 'react-router-dom'
 import IndexLogin from './pages/LoginPage/IndexLogin'
 import IndexUser from './pages/UserPage/IndexUser'
-import IndexHome from './pages/HomePage/indexHome'
+import IndexHome from './pages/HomePage/IndexHome'
 import RoutePrivate from './routes/RoutePrivate'
 import AuthContext from './contexts/AuthContext'
 import 'bootstrap/dist/css/bootstrap.min.css';
