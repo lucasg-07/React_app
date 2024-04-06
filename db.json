@@ -1,0 +1,17 @@
+{
+  "usuarios": [
+    {
+      "nome": "admin",
+      "senha": "admin123",
+      "login": "admin@admin.com",
+      "id": 1
+    },
+    {
+      "nome": "ademin",
+      "senha": "ademin321",
+      "login": "admin@admin.com",
+      "id": 2
+    }
+    
+  ]
+}
