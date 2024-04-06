@@ -1,5 +1,5 @@
 import {Container,Row,Col} from 'react-bootstrap'
-import Menu from './menu'
+import Menu from './Menu'
 
 const Layout = ({children}) =>{
     return(
